@@ -1,0 +1,80 @@
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 1
+Enter name: Anany Dev
+Enter phone number: 8272843460
+Enter email: ananydev01@gmail.com
+Contact added successfully.
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 1
+Enter name: Prodigy InfoTech
+Enter phone number: 9760018530
+Enter email: prodigyinfotech@gmail.com
+Contact added successfully.
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 2
+1. Name: Anany Dev, Phone Number: 8272843460, Email: ananydev01@gmail.com
+2. Name: Prodigy InfoTech, Phone Number: 9760018530, Email: prodigyinfotech@gmail.com
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 3
+1. Name: Anany Dev, Phone Number: 8272843460, Email: ananydev01@gmail.com
+2. Name: Prodigy InfoTech, Phone Number: 9760018530, Email: prodigyinfotech@gmail.com
+Enter the contact number to edit: 1
+Editing contact: Name: Anany Dev, Phone Number: 8272843460, Email: ananydev01@gmail.com
+Enter new name (or press Enter to keep current): 
+Enter new phone number (or press Enter to keep current): 8272843461
+Enter new email (or press Enter to keep current): 
+Contact updated successfully.
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 2
+1. Name: Anany Dev, Phone Number: 8272843461, Email: ananydev01@gmail.com
+2. Name: Prodigy InfoTech, Phone Number: 9760018530, Email: prodigyinfotech@gmail.com
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 4
+1. Name: Anany Dev, Phone Number: 8272843461, Email: ananydev01@gmail.com
+2. Name: Prodigy InfoTech, Phone Number: 9760018530, Email: prodigyinfotech@gmail.com
+Enter the contact number to delete: 1
+Contact deleted successfully.
+
+Contact Manager
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 2
+1. Name: Prodigy InfoTech, Phone Number: 9760018530, Email: prodigyinfotech@gmail.com
